@@ -1,0 +1,50 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma">1. What sizes of dumpsters do you offer nationwide?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We offer a wide range of sizes to suit any project. Our inventory typically includes the 10 yard dumpster, 15 yard dumpster rental, 20 yard, 30 yard roll off dumpster rental, and the massive 40 yard bin rental. We can help you choose the right size based on your project scope.</p>
+                <h4 class="template4 palooma">2. How much does a dumpster rental cost on average?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The average dumpster rental cost varies by location and size, typically ranging from $300 to $800. Factors like landfill fees in your state and the duration of the rental affect the final price. Contact us for a precise quote on roll off dumpster rental prices in your area.</p>
+                <h4 class="template4 palooma">3. What can I put in the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You can dispose of most non-hazardous household and construction materials, including wood, drywall, furniture, and yard waste. However, we cannot accept hazardous materials like paint, tires, batteries, or asbestos in our garbage dumpsters near me.</p>
+                <h4 class="template4 palooma">4.  How high can I load the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Please do not load the dumpster above the top rail. Overloading the unit creates safety hazards for our drivers and other motorists. If you have more debris than expected, it is better to order a second roll off container rental or schedule a swap-out.</p>
+                <h4 class="template4 palooma">5. Do I need a permit to rent a dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">If you plan to place the roll off on your private driveway, you usually do not need a permit. However, if the dumpster needs to sit on a public street or sidewalk in your city, you will likely need a municipal permit. We can advise you on local regulations.</p>
+                <h4 class="template4 palooma">6. How long is the standard rental period?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our standard rental period is typically 7 to 10 days. However, we offer flexible temporary dumpster rental terms. If you need the dumpster box for a longer or shorter period, just let us know when booking, and we can adjust the schedule.</p>
+                <div class="callalooma mx-auto"><a href="tel:850-332-9639">Click Here To Call Us (850) 332-9639</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
